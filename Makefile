@@ -1,4 +1,4 @@
-LATEX_FILE = resume
+LATEX_FILE = coverletter
 TEX        = pdflatex
 TMP_FOLDER = ./tex/tmp/
 DOC_FOLDER = ./tex/doc/
